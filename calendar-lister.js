@@ -19,46 +19,9 @@ google.load("gdata", "2.x", {packages: ["calendar"]});
 function init() {
   // init the Google data JS client library with an error handler
   google.gdata.client.init(handleGDError);
-  // load the code.google.com developer calendar
-  loadDeveloperCalendar();
-}
-
-/**
- * Loads the Google Developers Event Calendar
- */
-function loadDeveloperCalendar() {
-    //loadCalendar('https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full');
-    loadCalendar('https://www.google.com/calendar/feeds/me81n81gqt4hhmk0u6b8s6n9rg%40group.calendar.google.com/public/full') // Aikido timetable
-   //  loadCalendar('https://www.google.com/calendar/feeds/alex@tomosei-aikido.de/public/full') // Aikido sminars
 }
 
 
-/**
- * Loads the JS source for a user to copy/paste into their site into a div
- * with the name 'jsSource'.
- */
-function generateJsSource() {
-  var elementToUpdate = document.getElementById('jsSourceFinal');
-  var elementUpdateTemplate = document.getElementById('jsSourceTemplate');
-  /* in IE */
-  if (document.all) {
-    elementToUpdate.innerText = 
-        elementUpdateTemplate.innerText +
-        "\n<script type=\"text/javascript\">" +
-        "\nloadCalendar('https://www.google.com/calendar/feeds/" + 
-        document.getElementById('calendarAddress').value + "/public/full');" +
-        "\n</script>";
-  } else {
-    /* in Firefox/other */
-    elementToUpdate.textContent = 
-        elementUpdateTemplate.textContent +
-        "\n<script type=\"text/javascript\">" +
-        "\nloadCalendar('https://www.google.com/calendar/feeds/" + 
-        document.getElementById('calendarAddress').value + "/public/full');" +
-        "\n</script>";
-  }
-  document.getElementById('jsSourceFinal').style.display = 'block';
-}
 
 /**
  * Adds a leading zero to a single-digit number.  Used for displaying dates.
