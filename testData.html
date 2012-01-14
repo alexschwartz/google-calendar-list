@@ -2,17 +2,25 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Sample using the Google data JavaScript client library</title>
-<link rel="stylesheet" type="text/css" href="./DojoCalendar_files/dev_docs.css">
 <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAVzcu66YGicZvSPDVjflWZRQkdwf30UEryoEcWYgVOc_USNqEkxQkdR_BWf8ImhnhR_oQp2C-OaTnJw"></script>
 
 <script type="text/javascript" src="calendar-lister.js"></script>
 
 </head>
-<body>
-<h3 id="calendarTitle">...</h3>
-<div id="events">
-</div>
-<hr>
+
+<script type="text/javascript">
+
+  function loadMyCalendar() {
+    loadCalendar('https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full');
+  }
+</script>
+
+<body onload="loadMyCalendar()">
+
+    <h3 id="calendarTitle">...</h3>
+
+    <div id="events">
+    </div>
 
 
 

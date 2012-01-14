@@ -27,8 +27,8 @@ function init() {
  * Loads the Google Developers Event Calendar
  */
 function loadDeveloperCalendar() {
-    loadCalendar('https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full');
-    // loadCalendar('https://www.google.com/calendar/feeds/me81n81gqt4hhmk0u6b8s6n9rg%40group.calendar.google.com/public/full') // Aikido timetable
+    //loadCalendar('https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full');
+    loadCalendar('https://www.google.com/calendar/feeds/me81n81gqt4hhmk0u6b8s6n9rg%40group.calendar.google.com/public/full') // Aikido timetable
    //  loadCalendar('https://www.google.com/calendar/feeds/alex@tomosei-aikido.de/public/full') // Aikido sminars
 }
 

@@ -1,0 +1,29 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Sample using the Google data JavaScript client library</title>
+<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAVzcu66YGicZvSPDVjflWZRQkdwf30UEryoEcWYgVOc_USNqEkxQkdR_BWf8ImhnhR_oQp2C-OaTnJw"></script>
+
+<script type="text/javascript" src="calendar-lister.js"></script>
+
+</head>
+
+<script type="text/javascript">
+
+  function loadMyCalendar() {
+    //loadCalendar('https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full');
+    loadCalendar('https://www.google.com/calendar/feeds/me81n81gqt4hhmk0u6b8s6n9rg%40group.calendar.google.com/public/full') // Aikido timetable
+    //  loadCalendar('https://www.google.com/calendar/feeds/alex@tomosei-aikido.de/public/full') // Aikido sminars
+  }
+</script>
+
+<body onload="loadMyCalendar()">
+
+    <h3 id="calendarTitle">...</h3>
+
+    <div id="events">
+    </div>
+
+
+
+</body></html>
