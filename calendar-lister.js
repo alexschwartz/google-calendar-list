@@ -1,11 +1,3 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Sample using the Google data JavaScript client library</title>
-<link rel="stylesheet" type="text/css" href="./DojoCalendar_files/dev_docs.css">
-<script type="text/javascript" src="./DojoCalendar_files/jsapi"></script>
-<script type="text/javascript">
-<!--
 /* Copyright (c) 2007 Google Inc.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -259,15 +251,3 @@ function formatMonth(month) {
 
 google.setOnLoadCallback(init);
 
-//-->
-</script><script src="./DojoCalendar_files/saved_resource" type="text/javascript"></script><script src="./DojoCalendar_files/core,batch,geo,opensearch,atom,app,gdata,acl,calendar.I.js" type="text/javascript"></script>
-</head>
-<body>
-<h3 id="calendarTitle">...</h3>
-<div id="events">
-</div>
-<hr>
-
-
-
-</body></html>
