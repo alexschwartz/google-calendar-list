@@ -121,7 +121,7 @@ function listEvents(feedRoot) {
   /* loop through each event in the feed */
   var len = entries.length;
   for (var i = 0; i < len; i++) {
-    alert('a');
+    
     addEventEntry(entries[i], document, ul);
   }
   eventDiv.appendChild(ul);
@@ -169,11 +169,18 @@ function getDateString(times) {
       startDate = times[0].getStartTime().getDate();
       endDate = times[0].getEndTime().getDate();
       
+
+      var isMidnight = (endDate.getHours() == 0) && (endDate.getMinutes() == 0);
+      if (isMidnight) {
+         var yesterday = new Date(endDate - 86400000);
+         endDate = yesterday;
+      }
+      
       var startDay   = startDate.getDate();
       var startMonth = startDate.getMonth();
       var endDay     = endDate.getDate();
       var endMonth   = endDate.getMonth();
-      
+
       if (startMonth != endMonth) {
          return formatDateRange(startDay, startMonth, endDay,endMonth);
       } else if (startDay != endDay) {
@@ -201,15 +208,18 @@ function formatDateRangeInOneMonth(day1, day2, month) {
 }
 
 function formatDateRange(day1, month1, day2, month2) {
-  return formatDay(day1) + formatMonth(month1) + "-" + formatDay(day2) + formatMonth(month2);
+  return formatDay(day1) + formatMonth(month1) + " - " + formatDay(day2) + formatMonth(month2);
 }
 
 function formatDay(day) {
   return day + ".";
 }
 
+var ae = unescape("%E4");
+var MonthLiterals = new Array ('Januar', 'Februar', 'M' + ae + 'rz', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September','Oktober', 'November', 'Dezember'); 
+
 function formatMonth(month) {
-  return padNumber(month + 1) + ".";
+  return ' ' + MonthLiterals[month];
 }
 
 google.setOnLoadCallback(init);
