@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gCal="http://schemas.google.com/gCal/2005" xmlns:gd="http://schemas.google.com/g/2005">
+  <id>http://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full</id>
+  <updated>2012-01-14T21:35:08.000Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"/>
+  <title type="text">test</title>
+  <subtitle type="text"/>
+  <link rel="alternate" type="text/html" href="https://www.google.com/calendar/embed?src=5d6lantuetlp2vcfinobnpqo4c@group.calendar.google.com"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/batch"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full?max-results=25"/>
+  <author>
+    <name>test</name>
+  </author>
+  <generator version="1.0" uri="http://www.google.com/calendar">Google Calendar</generator>
+  <openSearch:totalResults>8</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <gCal:timezone value="Europe/Berlin"/>
+  <gCal:timesCleaned value="0"/>
+  <gd:where valueString=""/>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/0rb8b5ufopsfromipofdb2rf3c</id>
+    <published>2012-01-14T21:35:08.000Z</published>
+    <updated>2012-01-14T21:35:08.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"/>
+    <title type="text">multiple days (same month, not full day, til midnight), expected "30.3.-31.3.""</title>
+    <content type="text">	Aikido Seminar mit Mouliko Halèn (6. Dan - Aikikai Tokyo Berlin)
+
+Zeitplan:
+Freitag, 13. Januar: 20:00 - 21:30 
+Samstag, 14. Januar: 11:00 - 13:00 and 16:00 - 18:30
+Sonntag, 15. Januar: 10:30 - 12:30
+
+Lehrgangsgebühr:
+Gesamter Lehrgang: 60,- €, die Einheit je 20 € (Fr 1,5/Sa 2 bzw. 2,5/So 2 Std.)
+
+Ort: Aikido-Dojo TomoSei, Hauptstraße 26, 2. Hof, Quergebäude, 2. OG, 10827 Berlin-Schöneberg
+
+Bitte mitbringen:
+Bokken, Jo und Tanto soweit vorhanden
+Zeitplan:
+Freitag, 13. Januar: 20:00 - 21:30 
+Samstag, 14. Januar: 11:00 - 13:00 und 16:00 - 18:30
+Sonntag, 15. Januar: 10:30 - 12:30
+
+Lehrgangsgebühr:
+Gesamter Lehrgang: 60,- €, die Einheit je 20 € (Fr 1,5/Sa 2 bzw. 2,5/So 2 Std.)
+
+Ort: Aikido-Dojo TomoSei, Hauptstraße 26, 2. Hof, Quergebäude, 2. OG, 10827 Berlin-Schöneberg, http://www.tomosei-aikido.de/
+
+Bitte mitbringen:
+Bokken, Jo und Tanto soweit vorhanden
+
+Bitte bei Peter anmelden per E-Mail (peter@tomosei-aikido.de) oder SMS (0172 38 00 823); Anmeldung per Facebook reicht nicht aus.
+
+=============================
+
+Aikido Seminar with Mouliko Halèn (6. Dan - Aikikai Tokyo Berlin)
+
+Schedule:
+Friday, 13th: 8.00 - 9.30 pm
+Saturday, 14th: 11.00 am - 1.00 pm and 4-6.30pm
+Sunday, 15th: 10:30 - 12:30 am
+
+Costs:
+Full seminar 60,- €, per class 20 € 
+
+Place: Aikido-Dojo TomoSei, Hauptstraße 26, 3rd floor, 10827 Berlin-Schöneberg, http://www.tomosei-aikido.de/
+
+Please bring Bokken, Jo and Tanto.
+
+To apply please write an e-mail to Peter; do not use the Facebook for application.</content>
+    <link rel="alternate" type="text/html" href="https://www.google.com/calendar/event?eid=MHJiOGI1dWZvcHNmcm9taXBvZmRiMnJmM2MgNWQ2bGFudHVldGxwMnZjZmlub2JucHFvNGNAZw" title="alternate"/>
+    <link rel="self" type="application/atom+xml" href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/0rb8b5ufopsfromipofdb2rf3c"/>
+    <author>
+      <name>test</name>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/0rb8b5ufopsfromipofdb2rf3c/comments"/>
+    </gd:comments>
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed"/>
+    <gd:where valueString=""/>
+    <gd:who email="5d6lantuetlp2vcfinobnpqo4c@group.calendar.google.com" rel="http://schemas.google.com/g/2005#event.organizer" valueString="test"/>
+    <gd:when endTime="2012-04-01T00:00:00.000+02:00" startTime="2012-03-30T10:00:00.000+02:00"/>
+    <gd:transparency value="http://schemas.google.com/g/2005#event.opaque"/>
+    <gCal:anyoneCanAddSelf value="false"/>
+    <gCal:guestsCanInviteOthers value="true"/>
+    <gCal:guestsCanModify value="false"/>
+    <gCal:guestsCanSeeGuests value="true"/>
+    <gCal:sequence value="0"/>
+    <gCal:uid value="0rb8b5ufopsfromipofdb2rf3c@google.com"/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/9qahg01t7f13m84b8v6ammfa24</id>
+    <published>2012-01-14T19:22:38.000Z</published>
+    <updated>2012-01-14T20:27:33.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"/>
+    <title type="text">multiple days event (multiple months, full day), expected 27.2.-1.3.</title>
+    <content type="text">	Aikido Seminar mit Mouliko Halèn (6. Dan - Aikikai Tokyo Berlin)
+
+Zeitplan:
+Freitag, 13. Januar: 20:00 - 21:30 
+Samstag, 14. Januar: 11:00 - 13:00 and 16:00 - 18:30
+Sonntag, 15. Januar: 10:30 - 12:30
+
+Lehrgangsgebühr:
+Gesamter Lehrgang: 60,- €, die Einheit je 20 € (Fr 1,5/Sa 2 bzw. 2,5/So 2 Std.)
+
+Ort: Aikido-Dojo TomoSei, Hauptstraße 26, 2. Hof, Quergebäude, 2. OG, 10827 Berlin-Schöneberg
+
+Bitte mitbringen:
+Bokken, Jo und Tanto soweit vorhanden
+Zeitplan:
+Freitag, 13. Januar: 20:00 - 21:30 
+Samstag, 14. Januar: 11:00 - 13:00 und 16:00 - 18:30
+Sonntag, 15. Januar: 10:30 - 12:30
+
+Lehrgangsgebühr:
+Gesamter Lehrgang: 60,- €, die Einheit je 20 € (Fr 1,5/Sa 2 bzw. 2,5/So 2 Std.)
+
+Ort: Aikido-Dojo TomoSei, Hauptstraße 26, 2. Hof, Quergebäude, 2. OG, 10827 Berlin-Schöneberg, http://www.tomosei-aikido.de/
+
+Bitte mitbringen:
+Bokken, Jo und Tanto soweit vorhanden
+
+Bitte bei Peter anmelden per E-Mail (peter@tomosei-aikido.de) oder SMS (0172 38 00 823); Anmeldung per Facebook reicht nicht aus.
+
+=============================
+
+Aikido Seminar with Mouliko Halèn (6. Dan - Aikikai Tokyo Berlin)
+
+Schedule:
+Friday, 13th: 8.00 - 9.30 pm
+Saturday, 14th: 11.00 am - 1.00 pm and 4-6.30pm
+Sunday, 15th: 10:30 - 12:30 am
+
+Costs:
+Full seminar 60,- €, per class 20 € 
+
+Place: Aikido-Dojo TomoSei, Hauptstraße 26, 3rd floor, 10827 Berlin-Schöneberg, http://www.tomosei-aikido.de/
+
+Please bring Bokken, Jo and Tanto.
+
+To apply please write an e-mail to Peter; do not use the Facebook for application.</content>
+    <link rel="alternate" type="text/html" href="https://www.google.com/calendar/event?eid=OXFhaGcwMXQ3ZjEzbTg0Yjh2NmFtbWZhMjQgNWQ2bGFudHVldGxwMnZjZmlub2JucHFvNGNAZw" title="alternate"/>
+    <link rel="self" type="application/atom+xml" href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/9qahg01t7f13m84b8v6ammfa24"/>
+    <author>
+      <name>test</name>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/9qahg01t7f13m84b8v6ammfa24/comments"/>
+    </gd:comments>
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed"/>
+    <gd:where valueString="full day event (multiple days, same month)"/>
+    <gd:who email="5d6lantuetlp2vcfinobnpqo4c@group.calendar.google.com" rel="http://schemas.google.com/g/2005#event.organizer" valueString="test"/>
+    <gd:when endTime="2012-03-02" startTime="2012-02-27"/>
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent"/>
+    <gCal:anyoneCanAddSelf value="false"/>
+    <gCal:guestsCanInviteOthers value="true"/>
+    <gCal:guestsCanModify value="false"/>
+    <gCal:guestsCanSeeGuests value="true"/>
+    <gCal:sequence value="6"/>
+    <gCal:uid value="9qahg01t7f13m84b8v6ammfa24@google.com"/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/q03qgce9amu1elnsib6fc67unc</id>
+    <published>2012-01-14T20:23:06.000Z</published>
+    <updated>2012-01-14T20:27:14.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"/>
+    <title type="text">multiple days (same month, full day), expected "4.2.-5.2"</title>
+    <content type="text">	Aikido Seminar mit Mouliko Halèn (6. Dan - Aikikai Tokyo Berlin)
+
+Zeitplan:
+Freitag, 13. Januar: 20:00 - 21:30 
+Samstag, 14. Januar: 11:00 - 13:00 and 16:00 - 18:30
+Sonntag, 15. Januar: 10:30 - 12:30
+
+Lehrgangsgebühr:
+Gesamter Lehrgang: 60,- €, die Einheit je 20 € (Fr 1,5/Sa 2 bzw. 2,5/So 2 Std.)
+
+Ort: Aikido-Dojo TomoSei, Hauptstraße 26, 2. Hof, Quergebäude, 2. OG, 10827 Berlin-Schöneberg
+
+Bitte mitbringen:
+Bokken, Jo und Tanto soweit vorhanden
+Zeitplan:
+Freitag, 13. Januar: 20:00 - 21:30 
+Samstag, 14. Januar: 11:00 - 13:00 und 16:00 - 18:30
+Sonntag, 15. Januar: 10:30 - 12:30
+
+Lehrgangsgebühr:
+Gesamter Lehrgang: 60,- €, die Einheit je 20 € (Fr 1,5/Sa 2 bzw. 2,5/So 2 Std.)
+
+Ort: Aikido-Dojo TomoSei, Hauptstraße 26, 2. Hof, Quergebäude, 2. OG, 10827 Berlin-Schöneberg, http://www.tomosei-aikido.de/
+
+Bitte mitbringen:
+Bokken, Jo und Tanto soweit vorhanden
+
+Bitte bei Peter anmelden per E-Mail (peter@tomosei-aikido.de) oder SMS (0172 38 00 823); Anmeldung per Facebook reicht nicht aus.
+
+=============================
+
+Aikido Seminar with Mouliko Halèn (6. Dan - Aikikai Tokyo Berlin)
+
+Schedule:
+Friday, 13th: 8.00 - 9.30 pm
+Saturday, 14th: 11.00 am - 1.00 pm and 4-6.30pm
+Sunday, 15th: 10:30 - 12:30 am
+
+Costs:
+Full seminar 60,- €, per class 20 € 
+
+Place: Aikido-Dojo TomoSei, Hauptstraße 26, 3rd floor, 10827 Berlin-Schöneberg, http://www.tomosei-aikido.de/
+
+Please bring Bokken, Jo and Tanto.
+
+To apply please write an e-mail to Peter; do not use the Facebook for application.</content>
+    <link rel="alternate" type="text/html" href="https://www.google.com/calendar/event?eid=cTAzcWdjZTlhbXUxZWxuc2liNmZjNjd1bmMgNWQ2bGFudHVldGxwMnZjZmlub2JucHFvNGNAZw" title="alternate"/>
+    <link rel="self" type="application/atom+xml" href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/q03qgce9amu1elnsib6fc67unc"/>
+    <author>
+      <name>test</name>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/q03qgce9amu1elnsib6fc67unc/comments"/>
+    </gd:comments>
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed"/>
+    <gd:where valueString=""/>
+    <gd:who email="5d6lantuetlp2vcfinobnpqo4c@group.calendar.google.com" rel="http://schemas.google.com/g/2005#event.organizer" valueString="test"/>
+    <gd:when endTime="2012-02-06" startTime="2012-02-04"/>
+    <gd:transparency value="http://schemas.google.com/g/2005#event.opaque"/>
+    <gCal:anyoneCanAddSelf value="false"/>
+    <gCal:guestsCanInviteOthers value="true"/>
+    <gCal:guestsCanModify value="false"/>
+    <gCal:guestsCanSeeGuests value="true"/>
+    <gCal:sequence value="0"/>
+    <gCal:uid value="q03qgce9amu1elnsib6fc67unc@google.com"/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/17ffk1l425609oiffgq9no0dgs</id>
+    <published>2012-01-14T20:25:07.000Z</published>
+    <updated>2012-01-14T20:25:07.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"/>
+    <title type="text">multiple days (multiple month, not full day), expected "30.3.-2.4.""</title>
+    <content type="text">	Aikido Seminar mit Mouliko Halèn (6. Dan - Aikikai Tokyo Berlin)
+
+Zeitplan:
+Freitag, 13. Januar: 20:00 - 21:30 
+Samstag, 14. Januar: 11:00 - 13:00 and 16:00 - 18:30
+Sonntag, 15. Januar: 10:30 - 12:30
+
+Lehrgangsgebühr:
+Gesamter Lehrgang: 60,- €, die Einheit je 20 € (Fr 1,5/Sa 2 bzw. 2,5/So 2 Std.)
+
+Ort: Aikido-Dojo TomoSei, Hauptstraße 26, 2. Hof, Quergebäude, 2. OG, 10827 Berlin-Schöneberg
+
+Bitte mitbringen:
+Bokken, Jo und Tanto soweit vorhanden
+Zeitplan:
+Freitag, 13. Januar: 20:00 - 21:30 
+Samstag, 14. Januar: 11:00 - 13:00 und 16:00 - 18:30
+Sonntag, 15. Januar: 10:30 - 12:30
+
+Lehrgangsgebühr:
+Gesamter Lehrgang: 60,- €, die Einheit je 20 € (Fr 1,5/Sa 2 bzw. 2,5/So 2 Std.)
+
+Ort: Aikido-Dojo TomoSei, Hauptstraße 26, 2. Hof, Quergebäude, 2. OG, 10827 Berlin-Schöneberg, http://www.tomosei-aikido.de/
+
+Bitte mitbringen:
+Bokken, Jo und Tanto soweit vorhanden
+
+Bitte bei Peter anmelden per E-Mail (peter@tomosei-aikido.de) oder SMS (0172 38 00 823); Anmeldung per Facebook reicht nicht aus.
+
+=============================
+
+Aikido Seminar with Mouliko Halèn (6. Dan - Aikikai Tokyo Berlin)
+
+Schedule:
+Friday, 13th: 8.00 - 9.30 pm
+Saturday, 14th: 11.00 am - 1.00 pm and 4-6.30pm
+Sunday, 15th: 10:30 - 12:30 am
+
+Costs:
+Full seminar 60,- €, per class 20 € 
+
+Place: Aikido-Dojo TomoSei, Hauptstraße 26, 3rd floor, 10827 Berlin-Schöneberg, http://www.tomosei-aikido.de/
+
+Please bring Bokken, Jo and Tanto.
+
+To apply please write an e-mail to Peter; do not use the Facebook for application.</content>
+    <link rel="alternate" type="text/html" href="https://www.google.com/calendar/event?eid=MTdmZmsxbDQyNTYwOW9pZmZncTlubzBkZ3MgNWQ2bGFudHVldGxwMnZjZmlub2JucHFvNGNAZw" title="alternate"/>
+    <link rel="self" type="application/atom+xml" href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/17ffk1l425609oiffgq9no0dgs"/>
+    <author>
+      <name>test</name>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/17ffk1l425609oiffgq9no0dgs/comments"/>
+    </gd:comments>
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed"/>
+    <gd:where valueString=""/>
+    <gd:who email="5d6lantuetlp2vcfinobnpqo4c@group.calendar.google.com" rel="http://schemas.google.com/g/2005#event.organizer" valueString="test"/>
+    <gd:when endTime="2012-04-02T14:30:00.000+02:00" startTime="2012-03-30T10:00:00.000+02:00"/>
+    <gd:transparency value="http://schemas.google.com/g/2005#event.opaque"/>
+    <gCal:anyoneCanAddSelf value="false"/>
+    <gCal:guestsCanInviteOthers value="true"/>
+    <gCal:guestsCanModify value="false"/>
+    <gCal:guestsCanSeeGuests value="true"/>
+    <gCal:sequence value="0"/>
+    <gCal:uid value="17ffk1l425609oiffgq9no0dgs@google.com"/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/qq9jako07caohql3mf0n1q3oo4</id>
+    <published>2012-01-14T19:20:16.000Z</published>
+    <updated>2012-01-14T20:24:27.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"/>
+    <title type="text">multiple days (same month, not full day), expected "10.-11.03"</title>
+    <content type="text">	Aikido Seminar mit Mouliko Halèn (6. Dan - Aikikai Tokyo Berlin)
+
+Zeitplan:
+Freitag, 13. Januar: 20:00 - 21:30 
+Samstag, 14. Januar: 11:00 - 13:00 and 16:00 - 18:30
+Sonntag, 15. Januar: 10:30 - 12:30
+
+Lehrgangsgebühr:
+Gesamter Lehrgang: 60,- €, die Einheit je 20 € (Fr 1,5/Sa 2 bzw. 2,5/So 2 Std.)
+
+Ort: Aikido-Dojo TomoSei, Hauptstraße 26, 2. Hof, Quergebäude, 2. OG, 10827 Berlin-Schöneberg
+
+Bitte mitbringen:
+Bokken, Jo und Tanto soweit vorhanden
+Zeitplan:
+Freitag, 13. Januar: 20:00 - 21:30 
+Samstag, 14. Januar: 11:00 - 13:00 und 16:00 - 18:30
+Sonntag, 15. Januar: 10:30 - 12:30
+
+Lehrgangsgebühr:
+Gesamter Lehrgang: 60,- €, die Einheit je 20 € (Fr 1,5/Sa 2 bzw. 2,5/So 2 Std.)
+
+Ort: Aikido-Dojo TomoSei, Hauptstraße 26, 2. Hof, Quergebäude, 2. OG, 10827 Berlin-Schöneberg, http://www.tomosei-aikido.de/
+
+Bitte mitbringen:
+Bokken, Jo und Tanto soweit vorhanden
+
+Bitte bei Peter anmelden per E-Mail (peter@tomosei-aikido.de) oder SMS (0172 38 00 823); Anmeldung per Facebook reicht nicht aus.
+
+=============================
+
+Aikido Seminar with Mouliko Halèn (6. Dan - Aikikai Tokyo Berlin)
+
+Schedule:
+Friday, 13th: 8.00 - 9.30 pm
+Saturday, 14th: 11.00 am - 1.00 pm and 4-6.30pm
+Sunday, 15th: 10:30 - 12:30 am
+
+Costs:
+Full seminar 60,- €, per class 20 € 
+
+Place: Aikido-Dojo TomoSei, Hauptstraße 26, 3rd floor, 10827 Berlin-Schöneberg, http://www.tomosei-aikido.de/
+
+Please bring Bokken, Jo and Tanto.
+
+To apply please write an e-mail to Peter; do not use the Facebook for application.</content>
+    <link rel="alternate" type="text/html" href="https://www.google.com/calendar/event?eid=cXE5amFrbzA3Y2FvaHFsM21mMG4xcTNvbzQgNWQ2bGFudHVldGxwMnZjZmlub2JucHFvNGNAZw" title="alternate"/>
+    <link rel="self" type="application/atom+xml" href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/qq9jako07caohql3mf0n1q3oo4"/>
+    <author>
+      <name>test</name>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/qq9jako07caohql3mf0n1q3oo4/comments"/>
+    </gd:comments>
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed"/>
+    <gd:where valueString=""/>
+    <gd:who email="5d6lantuetlp2vcfinobnpqo4c@group.calendar.google.com" rel="http://schemas.google.com/g/2005#event.organizer" valueString="test"/>
+    <gd:when endTime="2012-03-11T14:30:00.000+01:00" startTime="2012-03-10T10:00:00.000+01:00"/>
+    <gd:transparency value="http://schemas.google.com/g/2005#event.opaque"/>
+    <gCal:anyoneCanAddSelf value="false"/>
+    <gCal:guestsCanInviteOthers value="true"/>
+    <gCal:guestsCanModify value="false"/>
+    <gCal:guestsCanSeeGuests value="true"/>
+    <gCal:sequence value="17"/>
+    <gCal:uid value="qq9jako07caohql3mf0n1q3oo4@google.com"/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/p99iqrneueo7iqvccp3m6ac13g</id>
+    <published>2012-01-14T16:41:16.000Z</published>
+    <updated>2012-01-14T20:24:06.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"/>
+    <title type="text">single day event (not full day), expected 3.3.</title>
+    <content type="text"/>
+    <link rel="alternate" type="text/html" href="https://www.google.com/calendar/event?eid=cDk5aXFybmV1ZW83aXF2Y2NwM202YWMxM2cgNWQ2bGFudHVldGxwMnZjZmlub2JucHFvNGNAZw" title="alternate"/>
+    <link rel="self" type="application/atom+xml" href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/p99iqrneueo7iqvccp3m6ac13g"/>
+    <author>
+      <name>test</name>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/p99iqrneueo7iqvccp3m6ac13g/comments"/>
+    </gd:comments>
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed"/>
+    <gd:where valueString=""/>
+    <gd:who email="5d6lantuetlp2vcfinobnpqo4c@group.calendar.google.com" rel="http://schemas.google.com/g/2005#event.organizer" valueString="test"/>
+    <gd:when endTime="2012-03-03T17:30:00.000+01:00" startTime="2012-03-03T16:30:00.000+01:00"/>
+    <gd:transparency value="http://schemas.google.com/g/2005#event.opaque"/>
+    <gCal:anyoneCanAddSelf value="false"/>
+    <gCal:guestsCanInviteOthers value="true"/>
+    <gCal:guestsCanModify value="false"/>
+    <gCal:guestsCanSeeGuests value="true"/>
+    <gCal:sequence value="7"/>
+    <gCal:uid value="p99iqrneueo7iqvccp3m6ac13g@google.com"/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/2g2ta31qs9qphepgik4kcror2k</id>
+    <published>2012-01-14T20:19:33.000Z</published>
+    <updated>2012-01-14T20:23:52.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"/>
+    <title type="text">single day event (not full day) til midnight, expected 6.3.</title>
+    <content type="text"/>
+    <link rel="alternate" type="text/html" href="https://www.google.com/calendar/event?eid=MmcydGEzMXFzOXFwaGVwZ2lrNGtjcm9yMmsgNWQ2bGFudHVldGxwMnZjZmlub2JucHFvNGNAZw" title="alternate"/>
+    <link rel="self" type="application/atom+xml" href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/2g2ta31qs9qphepgik4kcror2k"/>
+    <author>
+      <name>test</name>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/2g2ta31qs9qphepgik4kcror2k/comments"/>
+    </gd:comments>
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed"/>
+    <gd:where valueString=""/>
+    <gd:who email="5d6lantuetlp2vcfinobnpqo4c@group.calendar.google.com" rel="http://schemas.google.com/g/2005#event.organizer" valueString="test"/>
+    <gd:when endTime="2012-03-07T00:00:00.000+01:00" startTime="2012-03-06T16:30:00.000+01:00"/>
+    <gd:transparency value="http://schemas.google.com/g/2005#event.opaque"/>
+    <gCal:anyoneCanAddSelf value="false"/>
+    <gCal:guestsCanInviteOthers value="true"/>
+    <gCal:guestsCanModify value="false"/>
+    <gCal:guestsCanSeeGuests value="true"/>
+    <gCal:sequence value="4"/>
+    <gCal:uid value="2g2ta31qs9qphepgik4kcror2k@google.com"/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/8iiutgtbg9p0l9ohi8qbh75tvg</id>
+    <published>2012-01-14T16:39:11.000Z</published>
+    <updated>2012-01-14T20:21:32.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"/>
+    <title type="text">single day event (full day), expected 2.02.</title>
+    <content type="text"/>
+    <link rel="alternate" type="text/html" href="https://www.google.com/calendar/event?eid=OGlpdXRndGJnOXAwbDlvaGk4cWJoNzV0dmcgNWQ2bGFudHVldGxwMnZjZmlub2JucHFvNGNAZw" title="alternate"/>
+    <link rel="self" type="application/atom+xml" href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/8iiutgtbg9p0l9ohi8qbh75tvg"/>
+    <author>
+      <name>test</name>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="https://www.google.com/calendar/feeds/5d6lantuetlp2vcfinobnpqo4c%40group.calendar.google.com/public/full/8iiutgtbg9p0l9ohi8qbh75tvg/comments"/>
+    </gd:comments>
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed"/>
+    <gd:where valueString=""/>
+    <gd:who email="5d6lantuetlp2vcfinobnpqo4c@group.calendar.google.com" rel="http://schemas.google.com/g/2005#event.organizer" valueString="test"/>
+    <gd:when endTime="2012-02-03" startTime="2012-02-02"/>
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent"/>
+    <gCal:anyoneCanAddSelf value="false"/>
+    <gCal:guestsCanInviteOthers value="true"/>
+    <gCal:guestsCanModify value="false"/>
+    <gCal:guestsCanSeeGuests value="true"/>
+    <gCal:sequence value="5"/>
+    <gCal:uid value="8iiutgtbg9p0l9ohi8qbh75tvg@google.com"/>
+  </entry>
+</feed>
