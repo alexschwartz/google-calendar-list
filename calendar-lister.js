@@ -23,49 +23,42 @@ function init() {
 
 
 
-/**
- * Adds a leading zero to a single-digit number.  Used for displaying dates.
- * 
- * @param {int} num is the number to add a leading zero, if less than 10
- */
-function padNumber(num) {
-  if (num <= 9) {
-    return "0" + num;
-  }
-  return num;
-}
-
-/**
- * Determines the full calendarUrl based upon the calendarAddress
- * argument and calls loadCalendar with the calendarUrl value.
- *
- * @param {string} calendarAddress is the email-style address for the calendar
- */ 
-function loadCalendarByAddress(calendarAddress) {
-  var calendarUrl = 'https://www.google.com/calendar/feeds/' +
-                    calendarAddress + 
-                    '/public/full';
-  loadCalendar(calendarUrl);
-}
 
 /**
  * Uses Google data JS client library to retrieve a calendar feed from the specified
  * URL.  The feed is controlled by several query parameters and a callback 
  * function is called to process the feed results.
  *
- * @param {string} calendarUrl is the URL for a public calendar feed
+ * @param {map} params   a map with the named parameter, available are
+ *     'url': is the URL for a public calendar feed
  */  
-function loadCalendar(calendarUrl) {
+function loadCalendar(params) {
+  var skipEventsInThePast = parseBool(params.skipEventsInThePast, false);
+  var calendarUrl = params.url;
   var service = new 
       google.gdata.calendar.CalendarService('gdata-js-client-samples-simple');
   var query = new google.gdata.calendar.CalendarEventQuery(calendarUrl);
   query.setOrderBy('starttime');
   query.setSortOrder('ascending');
-  query.setFutureEvents(true);
+  query.setFutureEvents(skipEventsInThePast);
   query.setSingleEvents(true);
-  query.setMaxResults(10);
+  query.setMaxResults(100);
 
   service.getEventsFeed(query, listEvents, handleGDError);
+}
+
+function parseBool(flag, defaultValue) {
+    if (flag == null) {
+        return defaultValue;
+    }
+
+    if (flag instanceof String) {
+        var flagLc = flag.toLowerCase();
+        return (flagLc === 'true');
+    }
+    
+    // otherwise we hope its a Boolean
+    return flag;
 }
 
 /**
@@ -182,12 +175,12 @@ function getDateString(times) {
       var endMonth   = endDate.getMonth();
 
       if (startMonth != endMonth) {
-         return formatDateRange(startDay, startMonth, endDay,endMonth);
+         return formatDateRange(startDay, startMonth, endDay, endMonth) + ' ' + endDate.getYear();
       } else if (startDay != endDay) {
-          return formatDateRangeInOneMonth(startDay, endDay, endMonth);
-      } else {
-          return formatSingleDay(startDay, startMonth);
+          return formatDateRangeInOneMonth(startDay, endDay, endMonth) + ' ' + endDate.getYear();
       }
+      
+      return formatSingleDay(startDay, startMonth) + ' ' + endDate.getYear();
     }
 
     

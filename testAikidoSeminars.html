@@ -11,7 +11,9 @@
 <script type="text/javascript">
 
   function loadMyCalendar() {
-    loadCalendar('https://www.google.com/calendar/feeds/alex%40tomosei-aikido.de/public/full') // Aikido seminars
+	  loadCalendar({ skipEventsInThePast: false, url: 'https://www.google.com/calendar/feeds/alex%40tomosei-aikido.de/private-dd9202d6db9fd01cc695e2822a8e9d80/full' });
+      
+     // loadCalendar({ skipEventsInThePastNoTUSED: 'true', url: 'https://www.google.com/calendar/feeds/alex%40tomosei-aikido.de/public/full' }) // Aikido seminars
   }
 </script>
 
